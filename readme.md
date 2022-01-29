@@ -6,7 +6,7 @@ This game has been developed as an assignment for students at Amirkabir Universi
   
 ![Snail Jumber](SnailJumper.png)
 
-###Report
+### Report
 
 I've used FCNN(Fully Connected Neural Network) for the neural network part of this project in nn.py with architecture [4, 10, 1], which means in this NN I've used 4 neurons as input, 10 neurons as hidden layer and 1 neuron for the last layer.
 
